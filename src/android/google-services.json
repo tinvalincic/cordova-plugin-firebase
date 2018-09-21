@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "529837363404",
+    "firebase_url": "https://drustvo-strukovn-1535118298315.firebaseio.com",
+    "project_id": "drustvo-strukovn-1535118298315",
+    "storage_bucket": "drustvo-strukovn-1535118298315.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:529837363404:android:9ca15f990743c6c1",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "com.dedal.danistrukovnihnastavnika"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "529837363404-4gnp5c7u7lallfsq5g4kunbfsjp0fl9i.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyDC64BZw8bmfNWxnirCx7aSYDBD5_thyaM"
         }
       ],
       "services": {
